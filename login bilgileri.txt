@@ -1,0 +1,12 @@
+E-Mail                                   	Şifre
+----------------------------		 	----------------
+topkapı_sarayı@kultur.gov.tr       	 	topkapı123
+istanbul_arkeoloji_muzesi@kultur.gov.tr		istanbul123
+buyuk_saray_mozaikleri_muzesi@kultur.gov.tr	buyuk123
+beylerbeyi_sarayı@kultur.gov.tr			beylerbeyi123
+dolmabahce_sarayı@kultur.gov.tr			dolmabahce123
+deniz_muzesi@kultur.gov.tr			deniz123
+havacilik_muzesi@kultur.gov.tr			havacilik123
+panorama_1453_fetih_muzesi@kultur.gov.tr	panorama123
+yerebatan_sarnici@kultur.gov.tr			yerebatan123
+yildiz_sarayi@kultur.gov.tr			yildiz123

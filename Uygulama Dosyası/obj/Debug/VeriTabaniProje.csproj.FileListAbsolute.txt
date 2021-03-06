@@ -1,0 +1,11 @@
+C:\Users\abdll\source\repos\VeriTabaniProje\bin\Debug\VeriTabaniProje.exe.config
+C:\Users\abdll\source\repos\VeriTabaniProje\bin\Debug\VeriTabaniProje.exe
+C:\Users\abdll\source\repos\VeriTabaniProje\bin\Debug\VeriTabaniProje.pdb
+C:\Users\abdll\source\repos\VeriTabaniProje\obj\Debug\VeriTabaniProje.csprojAssemblyReference.cache
+C:\Users\abdll\source\repos\VeriTabaniProje\obj\Debug\VeriTabaniProje.Properties.Resources.resources
+C:\Users\abdll\source\repos\VeriTabaniProje\obj\Debug\VeriTabaniProje.csproj.GenerateResource.cache
+C:\Users\abdll\source\repos\VeriTabaniProje\obj\Debug\VeriTabaniProje.exe
+C:\Users\abdll\source\repos\VeriTabaniProje\obj\Debug\VeriTabaniProje.pdb
+C:\Users\abdll\source\repos\VeriTabaniProje\obj\Debug\VeriTabaniProje.MainForm.resources
+C:\Users\abdll\source\repos\VeriTabaniProje\obj\Debug\VeriTabaniProje.PersonCardItem.resources
+C:\Users\abdll\source\repos\VeriTabaniProje\obj\Debug\VeriTabaniProje.EditForm.resources
